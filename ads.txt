@@ -35,3 +35,7 @@ widget.intercom.io
 js.driftt.com
 dai.google.com
 ssl.p.jwpcdn.com
+fingerprintjs.com
+vk.com/rtrg
+cookiebot.com
+app.usercentrics.eu
